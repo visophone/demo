@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\work\statistics\custom\demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="325547eb656f7345b9ac1e54e82ab1dfdf03df1c">
+        <dex dex="D:\Android\work\statistics\custom\demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2ed72935d5ac270dba4d8d49c554d7d9ce7f9a95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\work\statistics\custom\demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72d34f1f9df5218975d9ef5e5bb8c5bdb9aff120">
+        <dex dex="D:\Android\work\statistics\custom\demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dc6328b308c74d4b9f36223424d7c7d67fdc4b52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\work\statistics\custom\demo\app\libs\ums_1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f9e51b06f5c03e7198e8a28b6efc2f79f879e98">
+        <dex dex="D:\Android\work\statistics\custom\demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\ums_1.1.0_954ac2aadea12344a51152769fe2eb9e062457ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\work\statistics\custom\demo\app\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4d4f672f29ddfa89d9ffe83d1974987122e0d72">
+        <dex dex="D:\Android\work\statistics\custom\demo\app\build\intermediates\transforms\dex\debug\folders\1000\2\classes_51ff5eb93f92bd52021dea65acb7340097e2b1e4\classes.dex" />
+    </item>
+
+</items>

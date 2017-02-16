@@ -1,0 +1,7 @@
+#Wed Feb 15 14:21:52 CST 2017
+base.0=D\:\\Android\\work\\statistics\\custom\\demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ed72935d5ac270dba4d8d49c554d7d9ce7f9a95
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\work\\statistics\\custom\\demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dc6328b308c74d4b9f36223424d7c7d67fdc4b52\\classes.dex
+base.1=D\:\\Android\\work\\statistics\\custom\\demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dc6328b308c74d4b9f36223424d7c7d67fdc4b52
+file.0=D\:\\Android\\work\\statistics\\custom\\demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2ed72935d5ac270dba4d8d49c554d7d9ce7f9a95\\classes.dex
